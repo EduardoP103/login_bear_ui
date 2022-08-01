@@ -1,16 +1,13 @@
-# login_bear_ui
+<h1 align="center">
+  Animated Login UI with Bear 🐻
+</h1>
 
-A new Flutter project.
+<h2 align="center">
+  <img src="./example.gif" height="400" />
+</h2>
 
-## Getting Started
+<br />
 
-This project is a starting point for a Flutter application.
+## Used Packages
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✨flare_flutter
